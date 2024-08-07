@@ -36,10 +36,6 @@ cd Gender-Recognition
 
 3. **Run the Python script to load the model, preprocess the image, make a prediction, and display the result.**
 
-## Example
-
-If your model file is named `model.h5`
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
